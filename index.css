@@ -1,0 +1,28 @@
+body{
+    background:hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.Card {
+    background: White;
+    text-align: center;
+    padding: 15px;
+    border-radius: 20px;
+    margin: 15vh 81vh 0vh 81vh;
+}
+
+.Card img{
+    border-radius: 15px;
+    width: 40vh;
+}
+
+.Card h1{
+    color: hsl(218, 44%, 22%);
+    font-size: 23px;
+    font-weight:700;
+}
+
+.Card p{
+    color:hsl(220, 15%, 55%);
+    font-size: 15px;
+}
